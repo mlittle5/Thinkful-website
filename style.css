@@ -1,0 +1,66 @@
+/* here is some main body css */
+
+body {
+  background-color: black;
+}
+
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+main {
+  background-color: grey;
+}
+
+article {
+background-color: grey;
+}
+
+/* this is psuedo class */
+
+.link_magic {
+  color: blue;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+/* here is some css regarding images */
+.header-image {
+  max-width: 100%;
+  height: auto;
+}
+.other-image {
+  max-width: 50%;
+  height: auto;
+}
+
+/* here is some css regarding different text containers */
+
+p {
+  border: 5px;
+  margin: 20px;
+  padding: 10px;
+}
+
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+
+h3 { 
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+
+/* this is my footer css */
+footer {
+  font-family: cursive;
+  font-size: 20px;
+  color: white;
+}
