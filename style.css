@@ -22,11 +22,10 @@ background-color: grey;
 /* this is psuedo class */
 
 .link_magic {
-  color: blue;
-  font-size: 20px;
-  margin: 20px;
-  padding: 20px;
-  text-align: center;
+  a:link    { color:  blue;  }
+  a:visited { color: purple; }
+  a:hover   { color: red; }
+  a:active  { color: green; }
 }
 /* here is some css regarding images */
 .header-image {
